@@ -56,8 +56,8 @@ To get a local copy of the project up and running, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd EduHub
+    git clone https://github.com/Al-rimi/eduhub.git
+    cd eduhub
     ```
 
 
